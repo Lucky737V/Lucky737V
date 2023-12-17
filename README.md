@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnguishedConey
-- 👀 I’m interested in learning web development.
-- 🌱 I’m currently learning php on Xampp.
+- 👀 I’m interested in learning web development, especially web design.
+- 🌱 I’m currently learning some web development essentials.
 - 💞️ I might try helping other people with their own projects, but I doubt I’ll do that while I’m learning the basics. I just don’t want to be a burden.
 - 📫 How to reach me | I guess there's a way to send messages through this website, but I'm not really sure. If there's no such feature, then I might share my email.
 
